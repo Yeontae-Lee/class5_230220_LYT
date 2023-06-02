@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>이연태가 생성한 lyt2.jsp -- 1</h1>
+	<h1>이연태가 생성한 lyt2.jsp</h1>
 </body>
 </html>
